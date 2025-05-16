@@ -27,5 +27,5 @@ def display():
     🌾 Explore how climate patterns are shaping Nepal’s agricultural future and contribute to data-driven rural development planning.
 
     ### 📬 Connect With Us:
-    - **Nisma Paudel** – [LinkedIn](https://www.linkedin.com/in/nisma-paudel) | [GitHub](https://github.com/NismaPaudel)
+    - **Nisma Paudel** – [LinkedIn](https://www.linkedin.com/in/paudelnisma/) | [GitHub](https://github.com/nisma01paudel)
     """)
