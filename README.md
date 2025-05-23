@@ -3,7 +3,11 @@
 **Omdena Batch II Capstone Project**  
 *By Nisma Paudel*  
 
+🔗 **Live Dashboard**: [Streamlit App](https://capstone-project-nisma01paudel33.streamlit.app/)
+
+
 ---
+
 
 ### Project Overview  
 This project provides a system to monitor, analyze, and predict climate change impacts in Nepal, focusing on vulnerable regions and agriculture. It includes climate change data analysis, agricultural impact prediction, and NLP-based sentiment analysis.
